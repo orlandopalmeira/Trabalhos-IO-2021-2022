@@ -9,7 +9,6 @@
 
 | Nome                                | Número |
 |-------------------------------------|--------|
-| Gabriel Alexandre Monteiro da Silva | A97363 |
 | Miguel Silva Pinto                  | A96106 |
 | Orlando José da Cunha Palmeira      | A97755 |
 | Pedro Miguel Castilho Martins       | A97613 |
